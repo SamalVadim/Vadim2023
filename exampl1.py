@@ -118,6 +118,13 @@ b = [4,'we','ee',3,[1,2]]
 #     a.append(f)
 # print(*a)
 
+a = '123456'
+for i in a:
+    print()
+for g in range(1,7):
+    print(i*g)
+
+
 
 
 
